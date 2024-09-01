@@ -1,2 +1,3 @@
 I have installed GIT in my laptop
 Added new line in the text file
+Hi Hello i am learning git 
